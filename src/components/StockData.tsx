@@ -95,8 +95,6 @@ const StockData: React.FC = () => {
           className="border border-gray-300 p-2 rounded mr-2"
         >
           <option value="1min">1 Minute</option>
-          <option value="5min">5 Minutes</option>
-          <option value="15min">15 Minutes</option>
           <option value="30min">30 Minutes</option>
           <option value="60min">60 Minutes</option>
         </select>
